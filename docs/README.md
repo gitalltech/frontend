@@ -56,6 +56,12 @@
     ```
 
     ...and use the built-in generators to start your first feature.
+    ```shell
+     npm run generate container
+     ```
+     ```shell
+     npm run generate component
+     ```
 
 ### Development
 
