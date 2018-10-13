@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [General](general)
-  - [**CLI Commands**](general/commands.md)
+  - [CLI Commands](general/commands.md)
   - [Introduction ](general/introduction.md)
   - [Tool Configuration](general/files.md)
   - [Server Configurations](general/server-configs.md)
@@ -46,10 +46,9 @@
     npm run setup && npm start
     ```
 
-1.  Open [localhost:3000](http://localhost:3000) to see it in action.
+2.  Open [localhost:3000](http://localhost:3000) to see it in action.
 
-
-1.  Time to build your own app: run
+3.  Time to build your own app: run
 
     ```shell
     npm run clean
